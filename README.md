@@ -33,7 +33,7 @@ To innovate and develop scalable web solutions that enhance user experience and 
 
 ---
 
-### 🛠️ Languages & Tools
+### ❇️ Languages
 
 <p>
 <img alt="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,7 +56,7 @@ To innovate and develop scalable web solutions that enhance user experience and 
 
 ---
 
-## 🛠️ Tools I use
+### 🛠️ Tools
 
 <p>
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
