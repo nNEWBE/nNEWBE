@@ -14,6 +14,8 @@
 
 ### 🚀 About Me
 
+- 🧑‍💻 I’m a passionate <strong>MERN Stack Developer</strong> with hands-on experience in building full-stack web applications using modern technologies like <strong>TypeScript, Redux, Next.js</strong>, and <strong>Mongoose</strong>.  
+- 📈 I specialize in crafting clean, scalable, and maintainable code ranging from responsive front-end interfaces to efficient and secure back-end architectures.
 - 🔭 I’m currently working on full-stack web projects using Next.js & MongoDB
 - 💬 Ask me about **Next.js, React, Express, MongoDB, TypeScript, Redux**
 
@@ -21,7 +23,7 @@
 
 ### 🎯 Vision
 
-To innovate and develop scalable web solutions that enhance user experience and drive digital transformation.
+To innovate and develop scalable web solutions that enhance user experience and drive digital transformation. Committed to leveraging cutting-edge technologies to build efficient, reliable systems that solve complex challenges.
 
 ---
 
