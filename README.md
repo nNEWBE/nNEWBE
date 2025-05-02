@@ -2,9 +2,7 @@
   <img src="https://res.cloudinary.com/dorjgyfdl/image/upload/v1746129263/My_GitHub_Profile_1080_x_2080_px_gr5u6k.png" alt="Shuvo Chandra Deb Nath" />
 </p>
 
-<h1 style="font-size: 2.5rem" align="center">🅷🅸 👋, 🅸'🅼 🆂🅷🆄🆅🅾</p>
-
----
+<h1 style="font-size: 2.5rem" align="center">🅷🅸 👋, 🅸'🅼 🆂🅷🆄🆅🅾</h1>
 
 <p align="center">
   💻 MERN Stack Developer | 💙 TypeScript Lover | 🧑‍💻 Adaptive Learner
