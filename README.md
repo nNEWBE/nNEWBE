@@ -74,7 +74,7 @@ To innovate and develop scalable web solutions that enhance user experience and 
 | Project        | Tech Stack                                         | Link                                                                                                               |
 | -------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **AS Mart**    | Next.js, Tailwind CSS, MongoDB, Express,TypeScript | [GitHub](https://github.com/nNEWBE/as-mart-project)                                                                |
-| **iLuxe Shop** | React, Tailwind CSS, MongoDB, Express,TypeScript   | [Frontend](https://github.com/nNEWBE/iluxe-shop-frontend) [Backend](https://github.com/nNEWBE/iluxe-shop-frontend) |
+| **iLuxe Shop** | React, Tailwind CSS, MongoDB, Express,TypeScript   | [Frontend](https://github.com/nNEWBE/iluxe-shop-frontend) [Backend](https://github.com/nNEWBE/iluxe-shop-backend) |
 | **Study Mate** | React, Tailwind CSS, Express, MongoDB              | [Frontend](https://github.com/nNEWBE/study-mate-client) [Backend](https://github.com/nNEWBE/study-mate-server)     |
 
 ---
