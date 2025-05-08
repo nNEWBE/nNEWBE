@@ -8,11 +8,15 @@
   💻 MERN Stack Developer | 💙 TypeScript Lover | 🧑‍💻 Adaptive Learner
 </p>
 
+<!-- <p align="center">
+  <a href="https://github.com/coderkamrul0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> -->
+
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 I’m a passionate <strong>MERN Stack Developer</strong> with hands-on experience in building full-stack web applications using modern technologies like <strong>TypeScript, Redux, Next.js</strong>, and <strong>Mongoose</strong>.  
+- 🧑‍💻 I’m a passionate <strong>MERN Stack Developer</strong> with hands-on experience in building full-stack web applications using modern technologies like <strong>TypeScript, Redux, Next.js</strong>, and <strong>Mongoose</strong>.
 - 📈 I specialize in crafting clean, scalable, and maintainable code ranging from responsive front-end interfaces to efficient and secure back-end architectures.
 - 🔭 I’m currently working on full-stack web projects using Next.js & MongoDB
 - 💬 Ask me about **Next.js, React, Express, MongoDB, TypeScript, Redux**
@@ -71,11 +75,11 @@ To innovate and develop scalable web solutions that enhance user experience and 
 
 ### 📌 Pin Projects
 
-| Project        | Tech Stack                                         | Link                                                                                                               |
-| -------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **AS Mart**    | Next.js, Tailwind CSS, MongoDB, Express,TypeScript | [GitHub](https://github.com/nNEWBE/as-mart-project)                                                                |
-| **iLuxe Shop** | React, Tailwind CSS, MongoDB, Express,TypeScript   | [Frontend](https://github.com/nNEWBE/iluxe-shop-frontend) [Backend](https://github.com/nNEWBE/iluxe-shop-backend) |
-| **Study Mate** | React, Tailwind CSS, Express, MongoDB              | [Frontend](https://github.com/nNEWBE/study-mate-client) [Backend](https://github.com/nNEWBE/study-mate-server)     |
+| Project        | Tech Stack                                         | Link                                                                                                                                                              |
+| -------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AS Mart**    | Next.js, Tailwind CSS, MongoDB, Express,TypeScript | [Frontend](https://github.com/SangramBishwas/b4-assignment-6/tree/Shuvo/Frontend) [Backend](https://github.com/SangramBishwas/b4-assignment-6/tree/Shuvo/Backend) |
+| **iLuxe Shop** | React, Tailwind CSS, MongoDB, Express,TypeScript   | [Frontend](https://github.com/nNEWBE/iluxe-shop-frontend) [Backend](https://github.com/nNEWBE/iluxe-shop-backend)                                                 |
+| **Study Mate** | React, Tailwind CSS, Express, MongoDB              | [Frontend](https://github.com/nNEWBE/study-mate-client) [Backend](https://github.com/nNEWBE/study-mate-server)                                                    |
 
 ---
 
@@ -85,4 +89,8 @@ To innovate and develop scalable web solutions that enhance user experience and 
     <img style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=nnewbe&show_icons=true&theme=radical" width="45%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnewbe&theme=radical" width="48%" />
   </div>
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnewbe&layout=compact&theme=radical" width="43%"/></div>
+  <div >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnewbe&layout=compact&theme=radical" width="43%"/>
+
+  <img style="border:1px solid #dad8d9; border-radius: 4px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnewbe&theme=radical" width="100%" alt="Shuvo's GitHub Contribution"/>
+  </div>
