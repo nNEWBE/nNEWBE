@@ -56,6 +56,8 @@ To innovate and develop scalable web solutions that enhance user experience and 
 <img alt="badge" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img alt="badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -86,11 +88,11 @@ To innovate and develop scalable web solutions that enhance user experience and 
 ### 📊 GitHub Stats
 
   <div style="margin-bottom: 5px;">
-    <img style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=nnewbe&show_icons=true&theme=radical" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnewbe&theme=radical" width="48%" />
+    <img style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=nnewbe&show_icons=true&theme=radical" width="55%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnewbe&layout=compact&theme=radical" width="42%"/>
   </div>
   <div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnewbe&layout=compact&theme=radical" width="43%"/>
+  
 
-  <img style="border:1px solid #dad8d9; border-radius: 4px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnewbe&theme=radical" width="100%" alt="Shuvo's GitHub Contribution"/>
+  <img style="border:1px solid #dad8d9; border-radius: 4px;"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnewbe&theme=radical" width="98%" alt="Shuvo's GitHub Contribution"/>
   </div>
